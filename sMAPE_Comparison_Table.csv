@@ -1,0 +1,6 @@
+Model,sMAPE Score (%)
+LSMT_with_null,281.95
+LSTM_with_pivot,379.54
+LSTM_with_active,199.19
+N-BEATS,199.12
+______________________________
